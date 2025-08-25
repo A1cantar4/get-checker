@@ -1,0 +1,4 @@
+requests
+
+# For tests
+pytest
