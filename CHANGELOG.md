@@ -12,6 +12,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 - Virtual Environment to avoid conflicts.
 - Log saver.
 - Pytest for devs.
+- Contributing instruction.
 - Gitignore to keep the github clean.
 - Requirements with 'requests' and pytest.
 - Readme documentation.
